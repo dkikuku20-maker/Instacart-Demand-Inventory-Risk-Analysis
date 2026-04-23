@@ -172,3 +172,10 @@ Developed a **product-level risk scoring approach** that:
 * scikit-learn (Logistic Regression, Random Forest)
 
 ---
+## Dataset
+
+Data sourced from the Instacart Market Basket Analysis dataset:
+
+https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
+
+This dataset includes anonymized transactional data such as orders, product metadata, and prior purchase history, enabling analysis of demand patterns, customer behavior, and product relationships.
